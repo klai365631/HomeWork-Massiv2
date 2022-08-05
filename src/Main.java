@@ -5,6 +5,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
+
         int[] month=new int[30];
         month[0]=152367;
         month[1]=134767;
